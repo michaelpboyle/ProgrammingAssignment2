@@ -26,7 +26,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ##################################################
-## This function looks for the cached result of the matrix
+## This function looks for the cached result of the matrix.
 ## If found, it returns this result.  If not, it solves the
 ## matrix inverse.
 ##################################################
