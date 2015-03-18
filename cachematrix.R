@@ -3,7 +3,7 @@
 ## having to recalculate the result, if needed.
 
 ##################################################
-## This function is a list of 4 functions:
+## This function is a list containing a function to:
 ##   set        - sets the original matrix
 ##   get        - gets the original matrix
 ##   setinverse - sets the solution to the matrix inverse
